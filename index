@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pl-PL" class="h-full antialiased">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="preload" href="fonts/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2" as="font" crossorigin="" type="font/woff2">
+    <link rel="preload" href="fonts/b67966e0b83b2cd0-s.p.04y9-s23ppywx.woff2" as="font" crossorigin="" type="font/woff2">
+    
+    <link rel="stylesheet" href="css/0.y7npsbzp-7v.css" data-precedence="next">
+    
+    <script src="js/17_ca58303~3u.js" async=""></script>
+    <script src="js/0v9c2uadhpd-i.js" async=""></script>
+    <script src="js/turbopack-0l4.rwf_bynaa.js" async=""></script>
+    <script src="js/0kvllyqxiy6x_.js" async=""></script>
+    <script src="js/0d3tkj33oycf2.js" async=""></script>
+    <script src="js/01qje-3g21iq..js" async=""></script>
+
+    <meta name="theme-color" content="#FAF7F2">
+    <title>+1.500 Ilustrowanych Metafor Terapeutycznych | 15 plików PDF</title>
+    <meta name="description" content="15 tomów PDF z 1.500 ilustrowanymi metaforami terapeutycznymi. Scenariusze, morały i ćwiczenia gotowe do użycia na sesjach.">
+    
+    <link rel="icon" href="images/favicon.ico" sizes="256x256" type="image/x-icon">
+</head>
+
+<body class="min-h-full">
+    <header class="sticky top-0 z-50 border-b border-border-soft/60 bg-canvas/80 backdrop-blur-xl">
+        <div class="container-site flex h-16 items-center justify-between">
+            <a href="#top" class="flex items-center gap-2">
+                <div class="flex h-9 w-9 items-center justify-center rounded-lg bg-primary">
+                    <svg viewBox="0 0 24 24" class="h-5 w-5 text-white" fill="none" stroke="currentColor" stroke-width="1.8">
+                        <path d="M4 4h12a4 4 0 014 4v12H8a4 4 0 01-4-4z"></path>
+                        <path d="M4 4v12a4 4 0 004 4" opacity="0.5"></path>
+                    </svg>
+                </div>
+                <span class="font-serif text-lg font-semibold text-ink">1.500 Metafor</span>
+            </a>
+            <a href="#pagamento" class="inline-flex items-center gap-2 rounded-full bg-accent px-4 py-2 text-xs font-semibold text-white transition-all hover:bg-accent-hover hover:shadow-lg sm:px-5 sm:py-2.5 sm:text-sm">
+                <span>Sprawdź cenę</span>
+                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M1 7h12M8 2l5 5-5 5"></path></svg>
+            </a>
+        </div>
+    </header>
+
+    <main class="overflow-hidden pb-24 md:pb-0">
+        <section id="top" class="relative border-b border-border-soft/70 bg-[linear-gradient(180deg,#FAF7F2_0%,#F7EFE5_58%,#FAF7F2_100%)] pt-10 pb-16 sm:pt-14 sm:pb-24 md:pt-20">
+            <div class="container-site hero-grid">
+                <div class="min-w-0 animate-fade-up">
+                    <span class="eyebrow"><span class="h-1.5 w-1.5 rounded-full bg-sage"></span>📚 15 plików PDF · 1.500 metafor</span>
+                    <h1 class="heading-display mt-5 text-[2.05rem] leading-[1.05] sm:text-5xl md:text-[3.5rem] lg:text-6xl">
+                        +1.500 <span class="relative inline-block"><span class="relative z-10 text-primary">Metafor Terapeutycznych</span><span aria-hidden="true" class="absolute inset-x-0 bottom-1 -z-0 h-3 bg-accent-soft"></span></span> Ilustrowanych, aby Odmienić Twoje Sesje
+                    </h1>
+                    <div class="mt-6 md:hidden">
+                        <img alt="Metafory Terapeutyczne" width="1536" height="1024" class="h-auto w-full rounded-2xl border border-white/80 bg-white shadow-card-ui" src="images/hero-gpt-direct-v2.webp">
+                    </div>
+                    <p class="mt-6 max-w-xl text-lg leading-relaxed text-ink-soft sm:text-xl">
+                        Zrewolucjonizuj swój warsztat dzięki potężnym metaforom, które upraszczają trudne koncepcje i otwierają pacjentów na głębszy wgląd. To narzędzie stanie się Twoim codziennym wsparciem.
+                    </p>
+                    <div class="mt-8 flex flex-col gap-4 sm:flex-row sm:items-center">
+                        <a href="#pagamento" class="btn-primary w-full whitespace-nowrap text-sm sm:w-auto sm:text-base">
+                            <span>Sprawdź cenę i dostęp</span>
+                        </a>
+                        <div class="text-sm text-ink-soft">
+                            <strong class="text-ink">4,9/5</strong> · ponad 2.800 opinii
+                        </div>
+                    </div>
+                </div>
+                <div class="desktop-hero-art relative items-center justify-center">
+                    <div class="relative w-full max-w-[50rem]">
+                        <img alt="Metafory Terapeutyczne" width="1536" height="1024" class="h-auto w-full rounded-[1.75rem] border border-white/80 bg-white shadow-float-ui" src="images/hero-gpt-direct-v2.webp">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="relative py-16 sm:py-24">
+            <div class="container-site">
+                <div class="grid gap-10 lg:grid-cols-[0.82fr_1.18fr] lg:items-center">
+                    <div>
+                        <span class="eyebrow">Co otrzymujesz</span>
+                        <h2 class="heading-section mt-4">Wszystko w jednym pakiecie, bez zbędnych treści.</h2>
+                        <p class="mt-5 text-base leading-relaxed text-ink-soft sm:text-lg">Otrzymujesz 15 plików PDF z 1.500 ilustrowanymi metaforami terapeutycznymi, uporządkowanymi według tematów emocjonalnych.</p>
+                    </div>
+                    <div class="grid gap-4 sm:grid-cols-3">
+                        <article class="group overflow-hidden rounded-2xl border border-border-soft bg-white shadow-soft-ui">
+                            <div class="relative aspect-[16/11]"><img alt="Materiały" class="object-cover" src="images/hero-material-completo-v4.webp"></div>
+                            <div class="p-5"><h3 class="font-serif text-xl font-semibold text-ink">15 tomów tematycznych</h3></div>
+                        </article>
+                        <article class="group overflow-hidden rounded-2xl border border-border-soft bg-white shadow-soft-ui">
+                            <div class="relative aspect-[16/11]"><img alt="Strony" class="object-cover" src="images/mockup-pages-realistic.webp"></div>
+                            <div class="p-5"><h3 class="font-serif text-xl font-semibold text-ink">Gotowe scenariusze</h3></div>
+                        </article>
+                        <article class="group overflow-hidden rounded-2xl border border-border-soft bg-white shadow-soft-ui">
+                            <div class="relative aspect-[16/11]"><img alt="Bonusy" class="object-cover" src="images/checklist.png"></div>
+                            <div class="p-5"><h3 class="font-serif text-xl font-semibold text-ink">3 praktyczne bonusy</h3></div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="relative py-20 sm:py-28">
+            <div class="container-site text-center">
+                <h2 class="heading-section mx-auto max-w-3xl">Sesja staje się bardziej wizualna i konkretna.</h2>
+                <div class="mx-auto mt-10 grid max-w-5xl gap-5 lg:grid-cols-3">
+                    <article class="p-6 bg-white rounded-2xl shadow-soft-ui">
+                        <img src="images/volume-ansiedade-preocupacoes.webp" class="rounded-xl mb-4" alt="Lęk">
+                        <h3 class="font-serif text-xl font-semibold">1. Znajdź temat</h3>
+                    </article>
+                    <article class="p-6 bg-white rounded-2xl shadow-soft-ui">
+                        <img src="images/volume-raiva-frustracao.webp" class="rounded-xl mb-4" alt="Złość">
+                        <h3 class="font-serif text-xl font-semibold">2. Pokaż metaforę</h3>
+                    </article>
+                    <article class="p-6 bg-white rounded-2xl shadow-soft-ui">
+                        <img src="images/volume-tristeza-perdas.webp" class="rounded-xl mb-4" alt="Smutek">
+                        <h3 class="font-serif text-xl font-semibold">3. Zastosuj ćwiczenie</h3>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="pagamento" class="py-16 bg-canvas/70">
+            <div class="container-site max-w-4xl text-center">
+                <h2 class="font-serif text-4xl font-bold">Uzyskaj pełny pakiet już dziś</h2>
+                <div class="mt-10 p-8 bg-white rounded-3xl shadow-float-ui border border-accent/20">
+                    <div class="text-accent font-bold uppercase tracking-widest">DZISIAJ TYLKO</div>
+                    <div class="mt-2 font-serif text-5xl font-bold text-ink">67 zł</div>
+                    <a href="SUA_URL_DE_CHECKOUT_AQUI" class="btn-primary mt-8 w-full block text-center">TAK! CHCĘ UZYSKAĆ DOSTĘP TERAZ!</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="border-t border-border-soft bg-canvas py-10">
+        <div class="container-site text-center text-xs text-muted">
+            <p>© 2026 · Wszelkie prawa zastrzeżone</p>
+        </div>
+    </footer>
+</body>
+</html>
